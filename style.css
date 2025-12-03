@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: blue;
+}
+
+.imgg {
+  /* display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  box-shadow: #00000080;
+
+  /* padding: 16 8; */
+  /* background-color: darkgreen;
+  width: 244px;
+  height: 368px;
+  border-radius: 10px; */
+
+  display: flex;
+  flex-wrap: wrap;
+  gap: 25px;
+  justify-content: center;
+}
+
+.img {
+  border-radius: 10px;
+}
